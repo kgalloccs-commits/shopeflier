@@ -1,1 +1,28 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>All Categories</item>
+        <item>Electronics</item>
+        <item>Clothing &amp; Fashion</item>
+        <item>Home &amp; Garden</item>
+        <item>Sports &amp; Outdoors</item>
+        <item>Books &amp; Media</item>
+        <item>Automotive</item>
+        <item>Health &amp; Beauty</item>
+        <item>Toys &amp; Games</item>
+        <item>Other</item>
+    </string-array>
+    
+    <string-array name="sell_categories">
+        <item>Select Category</item>
+        <item>Electronics</item>
+        <item>Clothing &amp; Fashion</item>
+        <item>Home &amp; Garden</item>
+        <item>Sports &amp; Outdoors</item>
+        <item>Books &amp; Media</item>
+        <item>Automotive</item>
+        <item>Health &amp; Beauty</item>
+        <item>Toys &amp; Games</item>
+        <item>Other</item>
+    </string-array>
+</resources>
